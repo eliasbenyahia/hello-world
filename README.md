@@ -1,5 +1,3 @@
 # hello-world
 
-Hi humans!
-
 
